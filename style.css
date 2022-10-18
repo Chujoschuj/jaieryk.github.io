@@ -30,7 +30,7 @@ body
     display: block;
 }
 
-#tile1, #tile2, #tile3, #tile4, #tile5, #tile6
+#tile1, #tile2, #tile3, #tile4, #tile5, #tile6, #tile7
 {
     height: 100px;
     width: 100px;
@@ -40,12 +40,12 @@ body
     text-align: center;
     font-size: 20px;
 }
-#tile1:hover, #tile2:hover, #tile3:hover, #tile4:hover, #tile5:hover, #tile6:hover
+#tile1:hover, #tile2:hover, #tile3:hover, #tile4:hover, #tile5:hover, #tile6:hover, #tile7:hover
 {
     background-color: #04c0c0;
 }
 
-#tile1:active, #tile2:active, #tile3:active, #tile4:active, #tile5:active, #tile6:active
+#tile1:active, #tile2:active, #tile3:active, #tile4:active, #tile5:active, #tile6:active, #tile7:active
 {
     color: coral;
 }
