@@ -7,6 +7,13 @@ body
     margin: 0px;
 }
 
+.kwadraty
+{
+    margin-top: 20px;
+    display: inline-block;
+    margin-left: 30px;
+}
+
 #container
 {
     height: 605px;
@@ -16,12 +23,7 @@ body
 }
 
 
-.kwadraty
-{
-    margin-top: 20px;
-    display: inline-block;
-    margin-left: 30px;
-}
+
 
 #napis
 {
